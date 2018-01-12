@@ -31,5 +31,6 @@ public class WishMsgGenerator implements Controller {
 			msg = "Good Night";
 		return new ModelAndView("wish", "viewMsg", msg);
 	}
+	// This is my first commit  
 
 }
